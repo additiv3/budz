@@ -1,9 +1,9 @@
 {
  "signatur": "fe306684",
  "breite": 1536,
- "hoehe": 2520,
+ "hoehe": 2496,
  "hoeheB": 1536,
- "lmax": 4.272,
+ "lmax": 4.336,
  "samples": 768,
  "dreiecke": 98355,
  "meshes": [
@@ -33,5 +33,5 @@
   "raum:erde",
   "raum:metallGlanz"
  ],
- "erzeugt": "2026-10-05 22:18"
+ "erzeugt": "2026-10-05 22:28"
 }
