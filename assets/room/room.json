@@ -1,17 +1,19 @@
 {
- "signatur": "e9b7e870",
+ "signatur": "fe306684",
  "breite": 1536,
- "hoehe": 2504,
+ "hoehe": 2520,
  "hoeheB": 1536,
- "lmax": 4.37,
+ "lmax": 4.272,
  "samples": 768,
- "dreiecke": 99121,
+ "dreiecke": 98355,
  "meshes": [
   "boden:dielen",
   "boden:fliesen",
   "raum:anzuchterde",
   "raum:atlas0",
   "raum:atlas1",
+  "raum:atlas2",
+  "raum:buchruecken",
   "raum:decke",
   "raum:fliesenWeiss",
   "raum:holz",
@@ -31,5 +33,5 @@
   "raum:erde",
   "raum:metallGlanz"
  ],
- "erzeugt": "2026-10-05 14:50"
+ "erzeugt": "2026-10-05 22:18"
 }
