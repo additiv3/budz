@@ -1,11 +1,11 @@
 {
- "signatur": "fe306684",
+ "signatur": "20b4320c",
  "breite": 1536,
- "hoehe": 2496,
+ "hoehe": 2460,
  "hoeheB": 1536,
- "lmax": 4.336,
+ "lmax": 4.464,
  "samples": 768,
- "dreiecke": 98355,
+ "dreiecke": 94731,
  "meshes": [
   "boden:dielen",
   "boden:fliesen",
@@ -33,5 +33,5 @@
   "raum:erde",
   "raum:metallGlanz"
  ],
- "erzeugt": "2026-10-05 22:28"
+ "erzeugt": "2026-10-07 19:33"
 }
