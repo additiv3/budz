@@ -1,11 +1,11 @@
 {
- "signatur": "aca9f93e",
+ "signatur": "5b32ae53",
  "breite": 1536,
- "hoehe": 2360,
+ "hoehe": 2356,
  "hoeheB": 1536,
- "lmax": 4.173,
+ "lmax": 4.187,
  "samples": 768,
- "dreiecke": 85037,
+ "dreiecke": 84829,
  "meshes": [
   "boden:dielen",
   "boden:fliesen",
@@ -32,7 +32,6 @@
   "raum:holzTisch@buero",
   "raum:holzWerkbank@buero",
   "raum:karton@buero",
-  "raum:karton@haus",
   "raum:karton@hinterzimmer",
   "raum:karton@lager",
   "raum:karton@verkauf",
@@ -77,5 +76,5 @@
   "raum:metallGlanz@verkauf",
   "raum:plastikBunt@lager"
  ],
- "erzeugt": "2026-10-08 16:39"
+ "erzeugt": "2026-10-12 18:43"
 }
